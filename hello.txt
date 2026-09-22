@@ -2,4 +2,4 @@ hello git
 second line
 dev line
 master line
-master new line
+conflict test line
