@@ -3,3 +3,4 @@ second line
 dev line
 master line
 conflict test line
+edited on github
